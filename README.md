@@ -1,4 +1,4 @@
-# zeroReg Landing Page
+# zeroreg Landing Page
 
 Marketing site for [zeroReg](https://npmjs.com/package/zeroreg) — a human-readable regex builder for JavaScript & TypeScript.
 
