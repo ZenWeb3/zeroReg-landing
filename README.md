@@ -2,7 +2,7 @@
 
 Marketing site for [zeroReg](https://npmjs.com/package/zeroreg) — a human-readable regex builder for JavaScript & TypeScript.
 
-🔗 **Live:** [zeroreg.dev](https://zeroreg.xyz)
+🔗 **Live:** [zeroreg.xyz](https://zeroreg.xyz)
 
 ## Stack
 
