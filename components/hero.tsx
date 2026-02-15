@@ -47,7 +47,7 @@ export function Hero() {
       </div>
 
       <div className="flex items-center justify-center gap-6 flex-wrap">
-        <span className="text-text-muted text-sm">1.2kb gzipped</span>
+        <span className="text-text-muted text-sm">91.1kb gzipped</span>
         <span className="text-text-muted text-sm before:content-[''] before:w-1 before:h-1 before:bg-zinc-700 before:rounded-full before:inline-block before:mr-6">
           Zero dependencies
         </span>
