@@ -20,7 +20,7 @@ pnpm dev
 ## Links
 
 - [npm package](https://npmjs.com/package/zeroreg)
-- [python package](https://pypi.org/package/zeroreg/)
+- [python package](https://pypi.org/package/zeroreg/)246966
 - [Package repo for Javascript/Typescript](https://github.com/zenweb3/zeroreg)
 - [Package repo for Python](https://pypi.org/package/zeroreg-py/)
 
