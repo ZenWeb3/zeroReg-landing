@@ -1,7 +1,7 @@
 export const PACKAGE_NAME = "zeroreg";
 
-export const GITHUB_URL = "https://github.com/yourusername/zeroreg";
-export const GITHUB_PY_URL = "https://github.com/yourusername/zeroreg-py";
+export const GITHUB_URL = "https://github.com/zenweb3/zeroreg";
+export const GITHUB_PY_URL = "https://github.com/zenweb3/zeroreg-py";
 export const NPM_URL = "https://npmjs.com/package/zeroreg";
 export const PYPI_URL = "https://pypi.org/project/zeroreg";
 export const DOCS_URL = "/docs";
